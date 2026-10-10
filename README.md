@@ -76,7 +76,8 @@ rublinmart/
     │   │   ├── logback.xml
     │   │   └── db/
     │   │       ├── schema.sql
-    │   │       └── seed.sql
+    │   │       ├── seed.sql
+    │   │       └── catalog.sql
     │   └── webapp/
     │       ├── WEB-INF/
     │       │   └── web.xml
@@ -145,10 +146,15 @@ Browser              Servlet               Service                DAO           
 > Change default passwords before deploying to a production environment!
 
 - **Admin Account**: `admin@rublinmart.com` / `Password@123`
+- **rublinjoe Admin Account**: `rublinjoej@gmail.com` / `Password@123`
 - **Seller 1 Account**: `seller1@rublinmart.com` / `Password@123`
 - **Seller 2 Account**: `seller2@rublinmart.com` / `Password@123`
+- **Daily Needs Seller Account**: `dailyneeds@rublinmart.com` / `Password@123`
 - **Buyer 1 Account**: `buyer1@rublinmart.com` / `Password@123`
 - **Buyer 2 Account**: `buyer2@rublinmart.com` / `Password@123`
+- **Buyer 3 Account**: `buyer3@rublinmart.com` / `Password@123`
+- **Buyer 4 Account**: `buyer4@rublinmart.com` / `Password@123`
+- **Buyer 5 Account**: `buyer5@rublinmart.com` / `Password@123`
 
 ---
 

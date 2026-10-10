@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Green tea bags">
+  <rect width="500" height="500" fill="#edf4e8"/><circle cx="250" cy="245" r="175" fill="#dce9ce"/>
+  <path d="M152 122h196l20 28v212H132V150z" fill="#fffdf3"/><path d="M152 122h196l20 28H132z" fill="#5c8b47"/>
+  <circle cx="250" cy="238" r="56" fill="#dcecc8"/><path d="M250 276c-54-26-22-75 0-75 26 0 53 47 0 75zm0-3c0-35 0-52 0-67m0 46c-12-12-20-18-31-21m31 8c12-12 21-17 31-19" fill="#75a858"/>
+  <text x="250" y="324" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#466e36">GREEN TEA</text>
+  <text x="250" y="355" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#66805a">20 TEA BAGS</text>
+</svg>

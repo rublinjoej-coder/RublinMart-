@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Pack of bamboo toothbrushes">
+  <rect width="500" height="500" fill="#f4f4e9"/><circle cx="250" cy="245" r="175" fill="#e7e7d2"/>
+  <g stroke-linecap="round">
+    <path d="M160 354l86-177" stroke="#c89b61" stroke-width="17"/><path d="M220 365l57-193" stroke="#d4aa72" stroke-width="17"/>
+    <path d="M280 365l27-193" stroke="#bd8c52" stroke-width="17"/><path d="M340 354l-5-177" stroke="#d4aa72" stroke-width="17"/>
+  </g>
+  <g fill="#f5f2e8" stroke="#a9b3a2" stroke-width="4"><rect x="224" y="137" width="43" height="51" rx="8" transform="rotate(26 245 162)"/><rect x="256" y="131" width="43" height="51" rx="8" transform="rotate(17 277 156)"/><rect x="286" y="129" width="43" height="51" rx="8" transform="rotate(8 307 154)"/><rect x="315" y="130" width="43" height="51" rx="8" transform="rotate(-2 336 155)"/></g>
+  <text x="250" y="416" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#716244">BAMBOO TOOTHBRUSHES · 4</text>
+</svg>

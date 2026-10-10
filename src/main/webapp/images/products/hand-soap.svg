@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Liquid hand soap pump bottles">
+  <rect width="500" height="500" fill="#f8f2ed"/><circle cx="250" cy="245" r="175" fill="#f0dfd2"/>
+  <g>
+    <path d="M165 183h94v178c0 16-12 28-28 28h-38c-16 0-28-12-28-28z" fill="#ed9f86"/>
+    <path d="M184 148h54v35h-54zm0 0h49v-17h40v12h-32" fill="none" stroke="#bd735e" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M252 205h94v156c0 16-12 28-28 28h-38c-16 0-28-12-28-28z" fill="#90c5b2"/>
+    <path d="M271 170h54v35h-54zm0 0h49v-17h40v12h-32" fill="none" stroke="#628f81" stroke-width="9" stroke-linejoin="round"/>
+  </g>
+  <rect x="177" y="254" width="70" height="69" rx="8" fill="#fff"/><rect x="264" y="254" width="70" height="69" rx="8" fill="#fff"/>
+  <text x="212" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#a45f4d">HAND SOAP</text>
+  <text x="299" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#557d70">HAND SOAP</text>
+</svg>

@@ -34,16 +34,15 @@ public class DatabaseContextListener implements ServletContextListener {
                 executeSqlScript("db/schema.sql");
                 executeSqlScript("db/seed.sql");
                 logger.info("Database schema and seed scripts executed successfully.");
-                return;
-            }
-
-            if (countRows("users") == 0) {
+            } else if (countRows("users") == 0) {
                 executeSqlScript("db/seed.sql");
                 logger.info("Database seed data restored because no users were present.");
-                return;
+            } else {
+                logger.info("Database already initialized; skipping schema and seed re-execution.");
             }
 
-            logger.info("Database already initialized; skipping schema and seed re-execution.");
+            executeSqlScript("db/catalog.sql");
+            logger.info("Daily essentials catalog loaded.");
         } catch (Exception e) {
             logger.error("Error initializing database context", e);
             throw new RuntimeException("Database initialization failed", e);

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Oat milk carton">
+  <rect width="500" height="500" fill="#f7f1e5"/><circle cx="250" cy="245" r="175" fill="#eee2cb"/>
+  <path d="M178 133h144l29 51v197H149V184z" fill="#fffdf7" stroke="#d5c5a7" stroke-width="4"/>
+  <path d="M178 133h144l29 51H149z" fill="#b98750"/><path d="M178 133l30-39h102l12 39" fill="#d3a76e"/>
+  <path d="M228 269c5-42 20-70 39-91m-33 97c-31-21-36-45-20-59 20 10 28 28 20 59zm16-39c16-25 37-29 49-13-5 20-21 30-49 34" fill="#9b7142"/>
+  <text x="250" y="225" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#78552f">OAT</text>
+  <text x="250" y="321" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#78552f">MILK</text>
+  <text x="250" y="355" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#9c805c">PLANT BASED · 1 L</text>
+</svg>

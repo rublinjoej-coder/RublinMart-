@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Body wash bottle">
+  <rect width="500" height="500" fill="#eff6f2"/><circle cx="250" cy="245" r="175" fill="#dcece4"/>
+  <path d="M220 105h72v42h-72z" fill="#34866d"/><path d="M201 145h110l25 44v170c0 23-18 41-41 41h-78c-23 0-41-18-41-41V189z" fill="#63b99a"/>
+  <rect x="204" y="222" width="104" height="111" rx="12" fill="#f9fffc"/>
+  <path d="M256 239c-23 28-30 39-30 53a30 30 0 0 0 60 0c0-14-7-25-30-53z" fill="#83cbb0"/>
+  <text x="256" y="314" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#34775f">BODY WASH</text>
+</svg>

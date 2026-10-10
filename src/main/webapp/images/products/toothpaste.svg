@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Fluoride toothpaste tubes">
+  <rect width="500" height="500" fill="#eef6fb"/><circle cx="250" cy="245" r="175" fill="#dcecf5"/>
+  <g transform="rotate(-8 250 245)">
+    <path d="M160 166h180l-19 190H179z" fill="#fff" stroke="#b7d5e5" stroke-width="5"/><path d="M179 338h142v36H179z" fill="#55a8d5"/>
+    <path d="M160 166l16-30h147l17 30" fill="#4b96c1"/>
+    <path d="M228 226c7-20 35-20 43 0-1 11-8 21-22 31-14-10-21-20-21-31z" fill="#4dbb8b"/>
+    <text x="250" y="282" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#367d9e">TOOTHPASTE</text>
+    <text x="250" y="309" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64899d">FLUORIDE</text>
+  </g>
+</svg>

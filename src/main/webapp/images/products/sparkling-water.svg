@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Sparkling mineral water bottles">
+  <rect width="500" height="500" fill="#eaf5fb"/><circle cx="250" cy="245" r="175" fill="#d8edf7"/>
+  <g fill="#78bfdf" stroke="#328eae" stroke-width="5">
+    <path d="M135 180h55v27l14 18v145h-83V225l14-18z"/><path d="M222 139h55v29l14 18v184h-83V186l14-18z"/><path d="M309 180h55v27l14 18v145h-83V225l14-18z"/>
+  </g>
+  <g fill="#fff" opacity=".7"><path d="M154 240h12v95h-12z"/><path d="M241 211h12v120h-12z"/><path d="M328 240h12v95h-12z"/></g>
+  <g fill="#fff" stroke="#5eafcf" stroke-width="3"><circle cx="173" cy="151" r="12"/><circle cx="207" cy="130" r="8"/><circle cx="320" cy="145" r="10"/><circle cx="375" cy="195" r="7"/></g>
+  <text x="250" y="403" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#24799b">SPARKLING WATER · 6 PACK</text>
+</svg>

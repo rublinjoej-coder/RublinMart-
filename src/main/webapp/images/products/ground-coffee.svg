@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Bag of ground coffee">
+  <rect width="500" height="500" fill="#f4eee6"/><circle cx="250" cy="245" r="175" fill="#e7d6c2"/>
+  <path d="M155 118h190l18 36v221H137V154z" fill="#593a2b"/><path d="M155 118h190v34H155z" fill="#38251d"/>
+  <rect x="157" y="205" width="186" height="130" rx="8" fill="#f7eee0"/><circle cx="250" cy="249" r="35" fill="#9a663e"/>
+  <path d="M240 232c22 1 28 21 17 36-9 11-22 8-27 0-8-13-4-29 10-36zm5 6c-7 10-8 19-1 28m6-27c-9 4-16 11-17 21" fill="none" stroke="#f5dfbd" stroke-width="3"/>
+  <text x="250" y="301" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#593a2b">GROUND COFFEE</text>
+  <text x="250" y="382" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#fff">MEDIUM ROAST</text>
+</svg>

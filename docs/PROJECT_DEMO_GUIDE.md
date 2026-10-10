@@ -194,12 +194,10 @@ jdbc:h2:file:./data/rublinmartdb;DB_CLOSE_DELAY=-1;AUTO_SERVER=TRUE
 This is an embedded file-based H2 database. It is not a separate database server that must be started manually. When the web application starts, `DatabaseContextListener`:
 
 1. Initializes HikariCP.
-2. Drops the development database objects.
-3. Executes `db/schema.sql`.
-4. Executes `db/seed.sql`.
-5. Leaves the application with a clean demo dataset.
+2. Creates the schema and applies `db/seed.sql` when the database is new.
+3. Applies the repeat-safe `db/catalog.sql` additions on every startup.
 
-Because the development database is reset on application startup, changes made during a demo may disappear after restarting Tomcat.
+The initial demo seed is not reapplied to an existing database, so changes made during a demo are preserved. The daily essentials account and products are inserted only when missing.
 
 ## 8. Seed Accounts
 
@@ -210,6 +208,7 @@ All seed accounts use the password `Password@123`.
 | Admin | `admin@rublinmart.com` |
 | Seller | `seller1@rublinmart.com` |
 | Seller | `seller2@rublinmart.com` |
+| Seller | `dailyneeds@rublinmart.com` |
 | Buyer | `buyer1@rublinmart.com` |
 | Buyer | `buyer2@rublinmart.com` |
 | Buyer | `buyer3@rublinmart.com` |

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="title description">
+  <title id="title">Laundry detergent bottle</title>
+  <desc id="description">A bottle of concentrated laundry detergent in a bright laundry room.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8f5f1"/>
+      <stop offset="1" stop-color="#f5f7fb"/>
+    </linearGradient>
+    <linearGradient id="bottle" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#72c9b2"/>
+      <stop offset="1" stop-color="#168b79"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#254a46" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <rect width="500" height="500" fill="url(#background)"/>
+  <circle cx="92" cy="108" r="48" fill="#fff" opacity=".55"/>
+  <circle cx="414" cy="138" r="74" fill="#fff" opacity=".45"/>
+  <path d="M0 372h500v128H0z" fill="#e4e9ec"/>
+  <path d="M0 383h500" stroke="#d2dadd" stroke-width="5"/>
+  <g filter="url(#shadow)">
+    <path d="M205 110h91v38h-91z" rx="8" fill="#087362"/>
+    <path d="M215 92h71v35h-71z" rx="8" fill="#f4faf8"/>
+    <path d="M184 143c0-18 14-32 32-32h68c14 0 26 9 30 22l23 68c3 8 4 16 4 24v137c0 22-18 40-40 40H180c-22 0-40-18-40-40V246c0-15 5-29 15-40l29-32z" fill="url(#bottle)"/>
+    <path d="M208 164h69c15 0 28 10 32 25l13 43H167l23-52c3-10 10-16 18-16z" fill="#a8e1d2" opacity=".45"/>
+    <rect x="163" y="242" width="154" height="112" rx="13" fill="#fff"/>
+    <path d="M163 257a15 15 0 0 1 15-15h124a15 15 0 0 1 15 15v18H163z" fill="#f2b544"/>
+    <text x="240" y="303" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#167565">LAUNDRY</text>
+    <text x="240" y="328" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#54716b">DETERGENT</text>
+    <path d="M208 354h64" stroke="#d7e8e3" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <path d="M45 397c22-18 46-18 68 0m274 0c22-18 46-18 68 0" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".85"/>
+</svg>

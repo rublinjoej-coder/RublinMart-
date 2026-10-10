@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Pack of kitchen trash bags">
+  <rect width="500" height="500" fill="#eff2f5"/><circle cx="250" cy="245" r="175" fill="#dfe5ea"/>
+  <path d="M161 183h178l-22 182H183z" fill="#263746"/><path d="M187 183l15-42h96l15 42" fill="#394d5d"/>
+  <path d="M208 224l-10 102m43-102-4 102m47-102 7 102" stroke="#738493" stroke-width="6" stroke-linecap="round"/>
+  <rect x="148" y="119" width="204" height="57" rx="10" fill="#fff"/>
+  <text x="250" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#344b5b">KITCHEN</text>
+  <text x="250" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#657987">30 DRAWSTRING BAGS</text>
+</svg>

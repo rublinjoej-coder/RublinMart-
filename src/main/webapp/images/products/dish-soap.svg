@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Dish soap bottle">
+  <rect width="500" height="500" fill="#edf7fb"/><circle cx="250" cy="245" r="175" fill="#d8edf4"/>
+  <path d="M222 105h72v34h-72z" fill="#286d99"/><path d="M205 139h112l24 52v153c0 25-19 44-44 44h-72c-25 0-44-19-44-44V191z" fill="#4faed0"/>
+  <path d="M229 106h100v20h-100z" fill="#286d99"/><path d="M219 211h90v108h-90z" fill="#fff" opacity=".92"/>
+  <path d="M250 251c0-22 19-36 30-36 0 20-8 32-30 36zm-2 0c-16-16-15-32-4-39 15 10 18 22 9 39z" fill="#55af72"/>
+  <text x="264" y="291" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#24728c">DISH SOAP</text>
+  <text x="264" y="313" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#578399">CLEAN &amp; FRESH</text>
+</svg>
