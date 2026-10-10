@@ -9,7 +9,8 @@ FROM tomcat:9.0-jdk17-temurin
 
 WORKDIR /usr/local/tomcat
 RUN rm -rf webapps/*
-# Deploy under /rublinmart because frontend links and API_BASE use that context path.
+# Deploy at both URLs: root for the Render homepage and /rublinmart for existing frontend/API paths.
+COPY --from=build /app/target/rublinmart.war webapps/ROOT.war
 COPY --from=build /app/target/rublinmart.war webapps/rublinmart.war
 
 EXPOSE 10000
